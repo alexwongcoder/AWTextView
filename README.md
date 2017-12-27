@@ -6,5 +6,6 @@ You can config the property :
 * placeholderTextColor
 * attributedPlaceholder
 * placeholderFadeTime
+
 example:
-https://github.com/alexwongcoder/AWTextView/blob/master/AWTextViewDemo.gif
+![image](https://github.com/alexwongcoder/AWTextView/blob/master/AWTextViewDemo.gif)
