@@ -8,4 +8,5 @@ You can config the property :
 * placeholderFadeTime
 
 example:
+
 ![image](https://github.com/alexwongcoder/AWTextView/blob/master/AWTextViewDemo.gif)
