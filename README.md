@@ -10,3 +10,11 @@ You can config the property :
 example:
 
 ![image](https://github.com/alexwongcoder/AWTextView/blob/master/AWTextViewDemo.gif)
+
+# Usage
+
+#### Podfile
+```ruby
+platform :ios, '8.0'
+pod "AWTextView", "0.0.2"
+```
